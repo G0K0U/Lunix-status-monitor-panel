@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=PC Monitor System Panel
+GenericName=PC monitoring dashboard
+Comment=Open CPU, CCD, cooling, pressure and experiment telemetry
+Exec=@INSTALL_DIR@/open-panel.sh
+Icon=mps-pressure-dashboard
+Terminal=false
+Categories=Utility;Monitor;System;
+Keywords=CPU;temperature;pressure;pump;radiator;CCD;CoolerControl;MPS;

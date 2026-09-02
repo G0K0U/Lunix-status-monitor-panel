@@ -1,0 +1,2 @@
+# Allow active local users to query the MPS HID feature report.
+SUBSYSTEM=="hidraw", ATTRS{idVendor}=="0c70", ATTRS{idProduct}=="f003", TAG+="uaccess"

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CurveSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scaledValues>
+    <double>0</double>
+    <double>6.67</double>
+    <double>13.33</double>
+    <double>20</double>
+    <double>26.67</double>
+    <double>33.33</double>
+    <double>40</double>
+    <double>46.76</double>
+    <double>53.33</double>
+    <double>60</double>
+    <double>66.67</double>
+    <double>73.33</double>
+    <double>80</double>
+    <double>86.67</double>
+    <double>93.33</double>
+    <double>100</double>
+  </scaledValues>
+  <rawValues>
+    <double>7</double>
+    <double>60</double>
+    <double>114</double>
+    <double>167</double>
+    <double>221</double>
+    <double>274</double>
+    <double>328</double>
+    <double>381</double>
+    <double>435</double>
+    <double>488</double>
+    <double>542</double>
+    <double>595</double>
+    <double>649</double>
+    <double>702</double>
+    <double>756</double>
+    <double>809</double>
+  </rawValues>
+</CurveSettings>

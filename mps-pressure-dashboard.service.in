@@ -1,0 +1,14 @@
+[Unit]
+Description=PC monitor and MPS pressure dashboard
+After=graphical-session.target
+
+[Service]
+Type=simple
+EnvironmentFile=-@CONFIG_FILE@
+WorkingDirectory=@INSTALL_DIR@
+ExecStart=@PYTHON@ @INSTALL_DIR@/mps_pressure_dashboard.py
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target

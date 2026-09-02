@@ -1,0 +1,3 @@
+Upstream repository: https://github.com/aleksamagicka/aquacomputer_d5next-hwmon
+Snapshot commit: 9ae7fd5 (Aquaero add pwm_enable)
+Local patch: MPS Pressure support via module option mps_pressure=1 for USB product 0c70:f003.
